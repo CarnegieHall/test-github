@@ -1,9 +1,9 @@
 # test-github
 temp repo for refreshing memories!
 
-This is stuff Kathryn and Lisa are writing. :)
-
-Ignore anything Rob adds, because he doesn't have a clue what he's doing.
-
-
-More stuff!
+if new - $ git clone <URL>
+——
+*every time before you start working!* - $ git pull
+$ git add <file>
+$ git commit -m “blah”
+$ git push origin master
