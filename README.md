@@ -1,13 +1,13 @@
 # test-github
 temp repo for refreshing memories!
 
-*if new* - $ git clone <URL>
+*if new* - $ git clone *URL of repo*
 
 ——
 
 *every time before you start working!* - $ git pull
 
-$ git add <file>
+$ git add *file or .*
 
 $ git commit -m “blah”
 
